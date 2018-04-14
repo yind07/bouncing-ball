@@ -1,4 +1,4 @@
-bounce2(1000, 'linear', 20);
+bounce2(1000, 'linear', 15);
 
 // maxBouncingTimes: 0 means no limit
 function bounce2(duration, easing, maxBouncingTimes=0) {
